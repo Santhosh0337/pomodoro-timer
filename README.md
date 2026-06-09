@@ -30,8 +30,8 @@ cd pomodoro-timer
 
 ### Main Interface
 
-![Main Interface](screenshots/main_interface.png)
+![Main Interface](screenshots/main-interface.png)
 
 ### Running Timer
 
-![Running Timer](screenshots/running_timer.png)
+![Running Timer](screenshots/running-timer.png)
