@@ -19,11 +19,19 @@ A productivity-focused Pomodoro Timer built with Python and Tkinter. The applica
 
 # How to Run
 1.Clone the repository:
-git clone https://github.com/yourusername/pomodoro-timer.git
+git clone https://github.com/Santhosh0337/pomodoro-timer.git
 
 2.Navigate to the project directory:
 cd pomodoro-timer
 
 3.Run the application.
 
-# Screenshots
+## Screenshots
+
+### Main Interface
+
+![Main Interface](screenshots/main_interface.png)
+
+### Running Timer
+
+![Running Timer](screenshots/running_timer.png)
